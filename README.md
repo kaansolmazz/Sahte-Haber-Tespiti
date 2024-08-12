@@ -43,7 +43,7 @@ Projede elde edilen sonuçlara göre, SVM ve TF-IDF kombinasyonu en yüksek doğ
 - **Naive Bayes + TF-IDF:** 90.7%
 
 ## Katkıda Bulunma
-Katkılarınızı memnuniyetle karşılıyoruz! Eğer bu projeyi geliştirmek isterseniz, lütfen bir pull request gönderin veya bir konu açın.
+Katkılarınızı memnuniyetle karşılıyorum! Eğer bu projeyi geliştirmek isterseniz, lütfen mail atınız.
 
 ## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atın.
+Bu proje Kırıkkale Üniversitesi lisans eğitimim altında gerçekleştirilmiştir.
