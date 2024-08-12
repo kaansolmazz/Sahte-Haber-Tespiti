@@ -60,4 +60,3 @@
     <p>Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atın.</p>
 </body>
 </html>
-
